@@ -1,0 +1,45 @@
+:root {
+    --font-body: "Catamaran", sans-serif;
+    --color-default: #fcfcfc;
+    --color-blue: #0b5ed7;
+}
+
+html {
+    scroll-padding-top: 50px;
+}
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--color-default);
+}
+
+.text-blue {
+    color: var(--color-blue);
+}
+
+.bg-blue {
+    background-color: var(--color-blue);
+}
+
+.logo {
+    color: var(--color-blue);
+    font-size: 2rem;
+}
+
+.logo:hover {
+    color: var(--color-blue);
+}
+
+.nav-link {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.nav-link:hover {
+    color: var(--color-blue);
+}
+
+textarea {
+    height: 150px;
+    resize: none;
+}

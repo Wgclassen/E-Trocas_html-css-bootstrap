@@ -1,0 +1,16 @@
+Google Fonts 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&display=swap" rel="stylesheet">
+
+Variáveis
+--font-body: "Catamaran", sans-serif;
+--color-default: #fcfcfc;
+--color-blue: #0b5ed7;
+
+Ícones
+<i class="bi bi-cloud-arrow-down"></i>
+<i class="bi bi-twitter-x"></i>
+<i class="bi bi-youtube"></i>
+<i class="bi bi-instagram"></i>
+<i class="bi bi-discord"></i>
